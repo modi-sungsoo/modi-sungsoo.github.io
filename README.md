@@ -7,8 +7,9 @@
 - 튜토리얼, 따라 하기, 숙련자 룰(업적 타일), 배경 음악·효과음을 지원합니다.
 
 ## 파일
-- `index.html` : 게임 전체(그림·글꼴 설정 포함)
-- `audio/` : 배경 음악 3곡, 효과음 8개
+- `design-village/index.html` : 게임 전체 (주소: https://modi-sungsoo.github.io/design-village/)
+- `index.html` : 사이트 첫 주소에서 게임으로 이동
+- `design-village/audio/` : 배경 음악 3곡, 효과음 8개
 - `.nojekyll` : GitHub Pages가 파일을 그대로 내보내도록 하는 설정
 
 온라인 방(여러 기기 대전)은 claude.ai 아티팩트에서만 동작합니다.
